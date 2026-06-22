@@ -30,7 +30,7 @@ This is a simple Java-based Temperature Converter that allows users to convert t
 * 100°F = 37.78°C
 * 0°C = 273.15 K
 
-##Screenshot
+## Screenshot
 
 Added project output screenshot
 
